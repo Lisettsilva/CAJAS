@@ -1,0 +1,59 @@
+
+
+
+    .contenedor {
+        background-color: aqua; 
+        height: 500px;
+        width: 1000px;
+        border: 10px solid burlywood;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        justify-content: space-around;
+        }
+      
+      
+      .red {
+        background-color: red; 
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+       
+      }
+      .blueviolet {
+        background-color: blueviolet; 
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+      }
+      .blue {
+      background-color: blue;
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+    }
+
+      .yellow {
+        background-color: yellow;
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+      }
+      
+      .green {
+        background-color: green;
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+      }
+      
+      .black {
+        background-color: black;
+        color: aliceblue;
+        margin: 20px;
+        height: 200px;
+        width: 100px;
+      }
+      
+ 
+
